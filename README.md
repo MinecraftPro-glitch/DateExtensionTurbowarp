@@ -1,5 +1,5 @@
-# DateExtensionTurbowarp
-A simple extension adding two blocks, is today after "date"? and how many days since "date"?
+# Date Extensions Turbowarp
+Two Simple Extensions, one adding a block to check if **"Date" is before today**, the other with two blocks, one checking if **"Date" is after Today** and **how many days since "date"**
 
 Self Explanatory
 
