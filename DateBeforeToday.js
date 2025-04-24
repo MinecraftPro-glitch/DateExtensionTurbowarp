@@ -1,6 +1,6 @@
-#Name - DateBeforeToday
-#Author - Maxolian2010
-#Version - 1.0
+//#Name - DateBeforeToday
+//#Author - Maxolian2010
+//#Version - 1.0
 
 (function(Scratch) {
     'use strict';
